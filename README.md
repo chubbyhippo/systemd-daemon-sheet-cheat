@@ -173,6 +173,3 @@ Here’s an example of a service definition to execute a script `/home/example/m
   ```
 - Debug the `.sh` script independently to ensure it works as expected before linking it to `systemd`.
 
----
-
-With this guide, you’ll be able to execute `.sh` scripts using custom `systemd` services and manage them efficiently!
